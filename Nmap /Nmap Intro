@@ -11,3 +11,8 @@ Network mapping
 Response analysis
 Open ports scanner
 Vulnerability assessment
+
+
+Syntax:
+
+nmap <scan types> <options> <target>
