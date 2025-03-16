@@ -10,7 +10,7 @@ nmap 10.0.10.0/24 (scan ranges)
 
 ### Disable port scanning:
 
--sn = disable prot scanning
+-sn = disable port scanning
 
 nmap -sn 192.168.120.3 
 
