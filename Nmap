@@ -1,0 +1,16 @@
+Nmap = Network Mapper
+Zenmap = the GUI version
+
+Use cases:
+
+Audit the security aspects of networks
+Penetration tests simulation
+Check firewall and IDS settings and configurations
+Types of possible connections
+Network mapping
+Response analysis
+Open ports scanner
+Vulnerability assessment
+
+
+
